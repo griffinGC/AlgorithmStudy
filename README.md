@@ -1,6 +1,6 @@
 # AlgorithmStudy
 
-### Repository 주소
+### Repository
 * 박재희
 
 * 연아림
