@@ -2,7 +2,7 @@
 
 ### Repository
 * 박재희
-https://github.com/Park-Jamy/AlgorithmStudy
+https://github.com/Park-Jamy/AlgorithmStudy_J
 * 연아림
 https://github.com/ArimYeon/AlgorithmStudy
 * 최민영
